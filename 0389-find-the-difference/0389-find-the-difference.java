@@ -26,19 +26,44 @@
 //     }
 // }
 
+
+
 //using XOR operations
+
+// class Solution {
+//     public char findTheDifference(String s, String t) {
+//         char result = 0;
+//         for(int i = 0;i<s.length();i++){
+//             result ^=s.charAt(i);
+//         }
+
+//         for(int i = 0;i<t.length();i++){
+//             result ^=t.charAt(i);
+//         }
+//         return result;
+        
+//     }
+// }
+
+
+
+//Using Arrays
+
 
 class Solution {
     public char findTheDifference(String s, String t) {
-        char result = 0;
-        for(int i = 0;i<s.length();i++){
-            result ^=s.charAt(i);
+        int arr[] = new int[26];
+        for(int i =0;i<s.length();i++){
+            arr[s.charAt(i) - 'a']++;
         }
 
-        for(int i = 0;i<t.length();i++){
-            result ^=t.charAt(i);
+        for(int i =0;i<t.length();i++){
+            arr[t.charAt(i) - 'a']--;
+
+            if(arr[t.charAt(i) - 'a']<0){
+                return t.charAt(i);
+            }
         }
-        return result;
-        
+        return ' ';
     }
 }
