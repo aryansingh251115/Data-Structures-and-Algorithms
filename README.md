@@ -47,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
+## Math
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
+## Simulation
+|  |
+| ------- |
+| [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
 <!---LeetCode Topics End-->
