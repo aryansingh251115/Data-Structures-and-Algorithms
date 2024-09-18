@@ -1,3 +1,4 @@
+//done without help
 class Solution {
     public int maxProduct(int[] nums) {
         Arrays.sort(nums);
