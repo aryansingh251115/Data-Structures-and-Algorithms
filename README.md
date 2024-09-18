@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,8 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
+| [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
 |  |
 | ------- |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
