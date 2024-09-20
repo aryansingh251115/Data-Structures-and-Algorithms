@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 ## Counting
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 ## Matrix
 |  |
 | ------- |
