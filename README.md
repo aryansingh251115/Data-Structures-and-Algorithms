@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1319-unique-number-of-occurrences) |
 | [1547-destination-city](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1547-destination-city) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 ## Sorting
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1547-destination-city) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
+| [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 ## Two Pointers
