@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Matrix
 |  |
 | ------- |
