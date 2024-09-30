@@ -76,11 +76,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 ## Simulation
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0525-contiguous-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
