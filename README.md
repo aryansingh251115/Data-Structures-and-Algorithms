@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1547-destination-city) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
