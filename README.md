@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
+| [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1547-destination-city) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
+| [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
@@ -78,10 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [1019-squares-of-a-sorted-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+| [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
+| [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
