@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1547-destination-city](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1547-destination-city) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
