@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-destination-city](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1547-destination-city) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
@@ -140,8 +142,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
