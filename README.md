@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-special-positions-in-a-binary-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
+| [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 | [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
+| [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+## Queue
+|  |
+| ------- |
+| [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
