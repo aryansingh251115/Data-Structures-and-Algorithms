@@ -1,3 +1,5 @@
+//done without any help
+
 class Solution {
     public boolean canBeEqual(int[] target, int[] arr) {
         Arrays.sort(target);
