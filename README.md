@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
