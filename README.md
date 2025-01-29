@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [1829-maximum-units-on-a-truck](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-squares-of-a-sorted-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1019-squares-of-a-sorted-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1829-maximum-units-on-a-truck](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0887-minimum-cost-to-hire-k-workers) |
+| [1829-maximum-units-on-a-truck](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
