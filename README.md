@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
@@ -188,9 +191,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
