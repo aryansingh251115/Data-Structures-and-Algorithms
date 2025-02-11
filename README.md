@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -202,4 +204,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
