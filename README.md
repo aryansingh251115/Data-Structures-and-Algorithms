@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
@@ -219,4 +220,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2121-find-if-path-exists-in-graph](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2121-find-if-path-exists-in-graph) |
+## Linked List
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
