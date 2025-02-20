@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 ## Prefix Sum
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
 ## Reservoir Sampling
@@ -233,4 +235,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
