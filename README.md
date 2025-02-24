@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0061-rotate-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
