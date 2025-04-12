@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2998-count-symmetric-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3055-maximum-odd-binary-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 ## Simulation
@@ -259,5 +260,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2998-count-symmetric-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
