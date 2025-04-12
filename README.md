@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 | [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [3055-maximum-odd-binary-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3055-maximum-odd-binary-number) |
+| [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -250,4 +252,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
