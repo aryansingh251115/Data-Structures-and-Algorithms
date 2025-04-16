@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
 | [2195-time-needed-to-buy-tickets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2195-time-needed-to-buy-tickets) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [2025-redistribute-characters-to-make-all-strings-equal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2025-redistribute-characters-to-make-all-strings-equal) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
@@ -265,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2998-count-symmetric-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2998-count-symmetric-integers) |
 | [3548-find-the-count-of-good-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3548-find-the-count-of-good-integers) |
+## Sliding Window
+|  |
+| ------- |
+| [2626-count-the-number-of-good-subarrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 <!---LeetCode Topics End-->
