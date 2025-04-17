@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
+| [0040-combination-sum-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2626-count-the-number-of-good-subarrays) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
