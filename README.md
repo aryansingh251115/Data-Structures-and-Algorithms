@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0038-count-and-say](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
