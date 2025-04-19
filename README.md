@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1829-maximum-units-on-a-truck](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1829-maximum-units-on-a-truck) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2756-buy-two-chocolates](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2756-buy-two-chocolates) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 ## Counting
@@ -115,11 +117,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [2634-minimum-common-value](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2634-minimum-common-value) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
