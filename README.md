@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0001-two-sum) |
 | [0040-combination-sum-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
