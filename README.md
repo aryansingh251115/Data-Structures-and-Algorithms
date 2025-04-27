@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
