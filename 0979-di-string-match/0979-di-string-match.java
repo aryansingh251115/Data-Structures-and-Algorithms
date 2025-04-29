@@ -12,7 +12,7 @@ class Solution {
                 arr[i] = high--;
             }
         }
-        arr[s.length()] = low;
+        arr[s.length()] = high;
     return arr;
     }
 }
