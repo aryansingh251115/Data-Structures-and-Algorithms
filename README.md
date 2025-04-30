@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1806-count-of-matches-in-tournament](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1806-count-of-matches-in-tournament) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
+| [2050-count-good-numbers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2050-count-good-numbers) |
 | [2998-count-symmetric-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2998-count-symmetric-integers) |
 | [3055-maximum-odd-binary-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3055-maximum-odd-binary-number) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [2050-count-good-numbers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
