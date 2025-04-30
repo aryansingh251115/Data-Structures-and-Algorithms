@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
+| [0050-powx-n](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 ## Stack
 |  |
