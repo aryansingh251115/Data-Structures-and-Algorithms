@@ -1,29 +1,29 @@
 class Solution {
-    public List<List<Integer>> combinationSum2(int[] candidates, int target) {
+    public List<List<Integer>> combinationSum2(int[] candi, int target) {
+        Arrays.sort(candi);
         List<List<Integer>> lst = new ArrayList<>();
-        Arrays.sort(candidates);
-        helper(lst, candidates, 0, new ArrayList<Integer>(), target);
+        helper(lst,0,candi,target,new ArrayList<>());
         return lst;
-
     }
 
-    private void helper(List<List<Integer>> lst, int arr[], int idx, List<Integer> path, int target) {
-        if (target == 0) {
-            lst.add(new ArrayList<>(path));
+    private void helper(List<List<Integer>> lst , int idx ,int candi[], int target , List<Integer> temp){
+        if(target == 0){
+            lst.add(new ArrayList<>(temp));
             return;
         }
-        if (idx >= arr.length || target < 0) {
+
+        if(target < 0){
+            // lst.add(new ArrayList<>(temp));
             return;
         }
-        // helper(lst, arr, idx + 1, path, target); //Excluding 
-        for (int i = idx; i < arr.length; i++) {
-            if (i > idx && arr[i] == arr[i - 1]) {
+        for(int i = idx ; i<candi.length ; i++){
+            if(i>idx && candi[i-1] == candi[i]){
                 continue;
             }
-
-        path.add(arr[i]);
-        helper(lst, arr, i + 1, path, target - arr[i]); //Including
-        path.remove(path.size() - 1);
+            int val = candi[i];
+            temp.add(val);
+            helper(lst,i+1,candi,target - val,temp);
+            temp.remove(temp.size()-1);
         }
     }
 }
