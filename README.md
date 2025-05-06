@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 | [3055-maximum-odd-binary-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3055-maximum-odd-binary-number) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
 | [2159-two-out-of-three](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2159-two-out-of-three) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Math
 |  |
 | ------- |
@@ -325,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
