@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0058-length-of-last-word) |
 | [0079-word-search](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0051-n-queens) |
