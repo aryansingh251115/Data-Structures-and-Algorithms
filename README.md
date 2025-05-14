@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0494-target-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0887-minimum-cost-to-hire-k-workers) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [0494-target-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
@@ -333,5 +335,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0282-expression-add-operators](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
+| [0494-target-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
