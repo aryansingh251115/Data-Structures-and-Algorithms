@@ -12,7 +12,6 @@ class Solution {
         }
 
         for (int i = idx; i < s.length(); i++) {
-
             if (isPalindrome(s.substring(idx,i+1))) {
                 temp.add(s.substring(idx, i+1));
                 helper(s, lst, temp, i + 1);
