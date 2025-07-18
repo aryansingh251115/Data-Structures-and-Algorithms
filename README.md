@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0090-subsets-ii) |
+| [0135-candy](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0135-candy) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0216-combination-sum-iii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0979-di-string-match](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
