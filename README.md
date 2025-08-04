@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0282-expression-add-operators) |
 | [0389-find-the-difference](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0389-find-the-difference) |
+| [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0979-di-string-match](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0979-di-string-match](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
 | [1829-maximum-units-on-a-truck](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1829-maximum-units-on-a-truck) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2128-reverse-prefix-of-word](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2128-reverse-prefix-of-word) |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
 | [0494-target-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
+| [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1236-n-th-tribonacci-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1236-n-th-tribonacci-number) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/3243-count-the-number-of-powerful-integers) |
 ## Memoization
