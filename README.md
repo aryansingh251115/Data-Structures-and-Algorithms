@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0455-assign-cookies) |
@@ -225,10 +226,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2050-count-good-numbers) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
