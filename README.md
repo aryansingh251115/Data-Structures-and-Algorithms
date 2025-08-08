@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0139-word-break](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0139-word-break) |
+| [0141-linked-list-cycle](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0205-isomorphic-strings](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
 | [0229-majority-element-ii](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0229-majority-element-ii) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0349-intersection-of-two-arrays) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0061-rotate-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
