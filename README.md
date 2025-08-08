@@ -284,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0208-implement-trie-prefix-tree) |
+| [0838-design-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0838-design-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0237-delete-node-in-a-linked-list) |
 | [0382-linked-list-random-node](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0382-linked-list-random-node) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [0838-design-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0838-design-linked-list) |
 ## Reservoir Sampling
 |  |
 | ------- |
