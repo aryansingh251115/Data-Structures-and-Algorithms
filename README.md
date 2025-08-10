@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -270,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
