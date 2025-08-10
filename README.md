@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -246,12 +247,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Dynamic Programming
