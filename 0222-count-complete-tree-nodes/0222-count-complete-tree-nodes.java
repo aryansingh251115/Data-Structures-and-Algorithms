@@ -15,17 +15,15 @@
  */
 class Solution {
     public int countNodes(TreeNode root) {
-        int count = 0;
+        if(root == null) return 0;
         return helper(root);
+        
+
     }
-
-    public int helper(TreeNode root) {
-        if (root == null) {
-            return 0;
-        }
-
-        int lh = helper(root.left);
-        int rh = helper(root.right);
-        return lh+rh+1;
+    public int helper(TreeNode root){
+        if(root == null)  return 0;
+        int left = helper(root.left);
+        int right = helper(root.right);
+        return left+right+1;
     }
 }
