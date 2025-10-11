@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2121-find-if-path-exists-in-graph) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -407,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
