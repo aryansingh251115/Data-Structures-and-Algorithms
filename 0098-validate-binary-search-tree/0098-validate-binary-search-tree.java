@@ -15,29 +15,26 @@
  */
 class Solution {
     public boolean isValidBST(TreeNode root) {
-        if(root == null || (root.left == null && root.right == null)) return true;
-
-        // ArrayList<Integer> arr = ;
-
-        ArrayList<Integer> arr = new ArrayList<>();
-        inorder(root , arr);
-
-        for(int i = 1; i<arr.size() ;i++){
-            if(!(arr.get(i) > arr.get(i-1))){
-                return false;
-            }
-        }
-    return true;
+        return func(root, null ,null);
     }
 
-    public void inorder(TreeNode root, ArrayList<Integer> arr) {
-        if (root == null) {
-            return;
+
+    public boolean func( TreeNode root , TreeNode min, TreeNode max){
+        if(root == null){
+            return true;
         }
 
-        inorder(root.left , arr);
-        arr.add(root.val);
-        inorder(root.right,arr);
-        return;
+        if(min != null && root.val >= min.val){
+            return false;
+        }
+
+        
+        else if(max != null && root.val <= max.val){
+            return false;
+        }
+        return func(root.left , root, max) && func(root.right , min , root);
+
+
+
     }
 }
