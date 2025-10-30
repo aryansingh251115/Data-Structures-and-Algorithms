@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
+| [0226-invert-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2121-find-if-path-exists-in-graph) |
@@ -317,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0404-sum-of-left-leaves) |
