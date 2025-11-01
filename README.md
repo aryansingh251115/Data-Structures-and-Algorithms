@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0494-target-sum) |
 | [0525-contiguous-array](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0560-subarray-sum-equals-k) |
+| [0654-maximum-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0898-transpose-matrix](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0898-transpose-matrix) |
 | [0979-di-string-match](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0234-palindrome-linked-list) |
+| [0654-maximum-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
+| [0654-maximum-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -388,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
+| [0654-maximum-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -435,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0654-maximum-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## String Matching
 |  |
