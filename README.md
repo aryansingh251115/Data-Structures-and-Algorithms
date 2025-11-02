@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0678-valid-parenthesis-string) |
 | [0887-minimum-cost-to-hire-k-workers](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0887-minimum-cost-to-hire-k-workers) |
 | [0979-di-string-match](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0979-di-string-match) |
+| [1285-balance-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [1829-maximum-units-on-a-truck](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1829-maximum-units-on-a-truck) |
 | [2032-largest-odd-number-in-string](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2032-largest-odd-number-in-string) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2572-append-characters-to-string-to-make-subsequence) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0572-subtree-of-another-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0975-range-sum-of-bst) |
+| [1285-balance-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2121-find-if-path-exists-in-graph) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2416-evaluate-boolean-binary-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Dynamic Programming
@@ -393,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0023-merge-k-sorted-lists) |
 | [0654-maximum-binary-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0654-maximum-binary-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1285-balance-a-binary-search-tree](https://github.com/aryansingh251115/Data-Structures-and-Algorithms/tree/master/1285-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
