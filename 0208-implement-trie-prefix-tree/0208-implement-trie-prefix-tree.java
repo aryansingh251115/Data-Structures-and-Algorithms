@@ -1,54 +1,49 @@
 class Trie {
-    static class TrieNode{
-        boolean eow;
-        TrieNode children[];
 
-        TrieNode(){
-            children  = new TrieNode[26];
-            eow = false; 
-        }
-    }
-    private TrieNode root;
+    Trie[] arr = new Trie[26];
+    boolean eow = false;
 
-    Trie() {
-        root = new TrieNode();
+    public Trie() {
+        for (int i = 0; i < arr.length; i++) {
+            arr[i] = null;
+        } 
     }
-    
+
     public void insert(String word) {
-        TrieNode curr = root;
-        for(int i = 0;i<word.length();i++){
+        Trie curr = this;
+        for (int i = 0; i < word.length(); i++) {
             int idx = word.charAt(i) - 'a';
-            if(curr.children[idx] == null){
-                curr.children[idx] = new TrieNode();
+            if (curr.arr[idx] == null) {
+                curr.arr[idx] = new Trie();
             }
-        curr = curr.children[idx];
+            curr = curr.arr[idx];
         }
         curr.eow = true;
+
     }
-    
+
     public boolean search(String word) {
-        TrieNode curr = root;
-        for(int i = 0;i<word.length();i++){
+        Trie curr = this;
+        for (int i = 0; i < word.length(); i++) {
             int idx = word.charAt(i) - 'a';
-            if(curr.children[idx] == null){
+            if (curr.arr[idx] == null) {
                 return false;
             }
-        curr = curr.children[idx];
+            curr = curr.arr[idx];
         }
         return curr.eow;
     }
-    
+
     public boolean startsWith(String prefix) {
-        TrieNode curr = root;
-        int i =0;
-        for(i = 0;i<prefix.length();i++){
+        Trie curr = this;
+        for (int i = 0; i < prefix.length(); i++) {
             int idx = prefix.charAt(i) - 'a';
-            if(curr.children[idx] == null){
+            if (curr.arr[idx] == null) {
                 return false;
             }
-        curr = curr.children[idx];
+            curr = curr.arr[idx];
         }
-    return i == prefix.length();
+        return true;
     }
 }
 
